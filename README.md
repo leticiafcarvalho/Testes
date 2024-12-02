@@ -45,18 +45,19 @@ Notas necessárias:
 
 ---
 
-
-### Para o exercício SQL:
-1. Utilize um banco de dados que suporte SQL (MySQL, PostgreSQL, etc.).
-2. Execute as instruções SQL para criar as tabelas.
-3. Execute a consulta SQL fornecida para obter o resultado esperado.
-   
 ### Para o exercício em Go:
 1. Clone o repositório.
 2. No terminal, execute o comando:
    ```bash
    go run main.go
    ```
+   
+### Para o exercício SQL:
+1. Utilize um banco de dados que suporte SQL (MySQL, PostgreSQL, etc.).
+2. Execute as instruções SQL para criar as tabelas.
+3. Execute a consulta SQL fornecida para obter o resultado esperado.
+   
+
 
 
 
